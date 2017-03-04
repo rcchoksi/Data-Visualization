@@ -1,6 +1,2 @@
 # Data-Visualization
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/rcchoksi/Data-Visualization.git
-git push -u origin master
+Various static and interactive visualizations created using packages like D3.js, R Shiny and ggplot2. 
